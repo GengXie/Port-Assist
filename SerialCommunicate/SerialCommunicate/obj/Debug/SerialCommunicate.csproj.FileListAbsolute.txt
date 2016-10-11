@@ -1,0 +1,31 @@
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Gerald\Desktop\杜洋入门C#设计视频资料\资料\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Gerald\Desktop\杜洋入门C#设计视频资料\资料\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Gerald\Desktop\杜洋入门C#设计视频资料\资料\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\Gerald\Desktop\杜洋入门C#设计视频资料\资料\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\Gerald\Desktop\杜洋入门C#设计视频资料\资料\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Gerald\Desktop\杜洋入门C#设计视频资料\资料\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\Gerald\Desktop\杜洋入门C#设计视频资料\资料\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\Gerald\Desktop\杜洋入门C#设计视频资料\资料\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\test_chip\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\1\Desktop\test_chip\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\1\Desktop\test_chip\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\1\Desktop\test_chip\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\test_chip\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\1\Desktop\test_chip\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\1\Desktop\test_chip\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
